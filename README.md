@@ -5,8 +5,10 @@
 
 <img align="right" alt="Hacker Mode" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
----
+<p align="center">
+<b>🕵️‍♂️ aka ZeroDayScout</b> <br>
+ Hunting vulnerabilities before they become headlines ⚡
+</p>
 
 ## 🔭 About Me
 - 🌱 I’m currently learning **Web3 Security & LLM Security**  
@@ -51,3 +53,9 @@
 - 🧠 Long-term pipeline: **OSCP → OSEP → OSWE → OSED** (one exploit at a time 💀)  
 
 ---
+## ⚡ Mindset
+> "Do not just find bugs. Understand systems, break logic, and think like an attacker."
+---
+<p align="center">
+ 🚨 ZeroDayScout — Always Hunting.
+</p>
